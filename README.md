@@ -20,5 +20,5 @@ Sinyaller ve Sistemler Dersi Ders Notları ve Sınav Sorularından Oluşur
 - [Final Konuları Özet](https://github.com/furkanayyildiz55/Signals_And_Systems_Lecture_Notes/blob/main/O%CC%88ZET.pdf)
 
 ## Çıkmış Sınav Soruları Ve Çözümleri
--[Çıkmış Sınav Soruları Ve Çözümleri](https://github.com/furkanayyildiz55/Signals_And_Systems_Lecture_Notes/blob/main/C%CC%A7IKMIS%CC%A7%20SORULAR%20VE%20%C3%87%C3%96Z%C3%9CMLER%C4%B0.pdf)
+- [Çıkmış Sınav Soruları Ve Çözümleri](https://github.com/furkanayyildiz55/Signals_And_Systems_Lecture_Notes/blob/main/C%CC%A7IKMIS%CC%A7%20SORULAR%20VE%20%C3%87%C3%96Z%C3%9CMLER%C4%B0.pdf)
   
