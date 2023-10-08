@@ -7,6 +7,7 @@ Sinyaller ve Sistemler Dersi Ders Notları ve Sınav Sorularından Oluşur
 
 
 ## Openheim Soru Çözümleri
+- Dersten geçmek istiyorsanız kitap sorularını çözmenizi kesinlikle tavsiye ederim !
 - [Youtube Link](https://www.youtube.com/@mathosyguru/playlists) 
 - [Litsolitions Link](https://www.litsolutions.org/i/9780138147570)
 
