@@ -23,7 +23,10 @@ Sinyaller ve Sistemler Dersi Ders Notları ve Sınav Sorularından Oluşur
 ## Çıkmış Sınav Soruları Ve Çözümleri
 - [Çıkmış Sınav Soruları Ve Çözümleri](https://github.com/furkanayyildiz55/Signals_And_Systems_Lecture_Notes/blob/main/C%CC%A7IKMIS%CC%A7%20SORULAR%20VE%20%C3%87%C3%96Z%C3%9CMLER%C4%B0.pdf)
 - [Vize 1](https://github.com/furkanayyildiz55/Signals_And_Systems_Lecture_Notes/blob/main/Vize1.jpg)
-- [Vize 2](https://github.com/furkanayyildiz55/Signals_And_Systems_Lecture_Notes/blob/main/Vize2.jpg)  
+- [Vize 2](https://github.com/furkanayyildiz55/Signals_And_Systems_Lecture_Notes/blob/main/Vize2.jpg)
+- [Vize 2022](https://github.com/furkanayyildiz55/Signals_And_Systems_Lecture_Notes/blob/main/2022V%C4%B0ZE.jpg)
+- [Vize 2023](https://github.com/furkanayyildiz55/Signals_And_Systems_Lecture_Notes/blob/main/2023V%C4%B0ZE.jpg)
+- [Final-Büt 2024](https://github.com/furkanayyildiz55/Signals_And_Systems_Lecture_Notes/blob/main/2024F%C4%B0NAL-B%C3%9CT-AYNI.jpg)
 * Cevapları kontrol etmenizi öneririm.
 - Elinde buradakilerden farklı sınav sorusu olan varsa iletebilir. Böylelikle herkes faydalanmış olur.
   
