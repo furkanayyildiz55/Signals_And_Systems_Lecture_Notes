@@ -29,4 +29,8 @@ Sinyaller ve Sistemler Dersi Ders Notları ve Sınav Sorularından Oluşur
 - [Final-Büt 2024](https://github.com/furkanayyildiz55/Signals_And_Systems_Lecture_Notes/blob/main/2024F%C4%B0NAL-B%C3%9CT-AYNI.jpg)
 * Cevapları kontrol etmenizi öneririm.
 - Elinde buradakilerden farklı sınav sorusu olan varsa iletebilir. Böylelikle herkes faydalanmış olur.
+
+## 2023 - 2024 Verileri Ders Notları vs.
+- [2023-2024](https://github.com/furkanayyildiz55/Signals_And_Systems_Lecture_Notes/tree/main/2023%20-%202024%20Notlar%20ve%20sorular)
+
   
